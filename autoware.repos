@@ -76,9 +76,9 @@ repositories:
     url: https://github.com/tier4/glog.git
     version: v0.6.0_t4-ros
   # launcher
-  launcher/autoware_launch:
+  launcher/autoware_launch.reva01:
     type: git
-    url: https://github.com/autowarefoundation/autoware_launch.git
+    url: https://github.com/jeevanchiru17/autoware_launch.reva01.git
     version: main
   # sensor_component
   sensor_component/external/sensor_component_description:
